@@ -40,5 +40,5 @@ Excel for data cleaning, MySQL for querying and data analysis, and Tableau for v
 #### Data Set
 The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
-### Final Dashboard
+### Final Dashboard with KPIs and Interactable Slicers
 <img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/04c82ca5-7e89-4f86-b66c-269803207861" />
