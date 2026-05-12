@@ -20,7 +20,7 @@ Clean and analyse sales data and determine weak areas and opportunities to boost
 
 #### Findings
 - Orders and Revenue both increased at a relatively linear rate.
-- Health & Beauty, Watches & Gifts, and Bed/Bath Table were the top three categories by revenue
+- Health & Beauty, Gifts, and Bed/Bath Table were the top three categories by revenue
 - 8.110% of orders are delivered late
 - Late deliveries decrease average review scores by 40.24%
 - The city São Paulo placed the most amount of orders
